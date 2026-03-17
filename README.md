@@ -23,16 +23,6 @@ My broader interests sit at the intersection of:
 
 Single-cell RNA-seq analysis of 51 Head and Neck Squamous Cell Carcinoma (HNSCC) patients (~100,000 cells) to characterise transcriptional plasticity at genetic subclone resolution.
 
-**Central contribution:** A Shannon entropy-based framework for quantifying within-clone transcriptional plasticity using cNMF programme usage distributions. Applied to SCEVAN-derived genetic subclones, this metric reveals that plasticity is maximised at intermediate transcriptional commitment — not at extremes — consistent with the hybrid epithelial-mesenchymal attractor model. This is the first quantitative assessment of within-clone plasticity at subclone resolution in HNSCC.
-
-**Key analyses:**
-- CNV-based subclone detection (SCEVAN) across 51 patients
-- cNMF transcriptional programme discovery and annotation
-- Shannon entropy plasticity metric development
-- Inverted-U relationship between pEMT programme usage and plasticity
-- Clinical correlation with specimen type, HPV status, anatomic site
-- Tumour microenvironment analysis: macrophage (9 subtypes), T cell (12 subtypes), monocyte (8 subtypes) subclustering and plasticity correlation
-
 ---
 
 ## Technical Skills
